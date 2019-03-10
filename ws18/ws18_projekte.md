@@ -17,10 +17,6 @@ Name des Projekts
 Team (Kürzel reicht)   
 Link auf github-Datei  
 
-
-
-
-
-
-
-
+Operation Paperclip  
+ek078  
+https://github.com/ek078/OperationPaperclip  
